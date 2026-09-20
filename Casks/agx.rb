@@ -2,8 +2,8 @@
 # ryuldashev/homebrew-agx (Casks/agx.rb) on first publish and rewrites the
 # version + sha256 lines on every release.
 cask "agx" do
-  version "0.24.0"
-  sha256 "f71aba4ce14c082e89fab53342efb44486b2515d6519d9449d3e1145ea92e289"
+  version "0.25.0"
+  sha256 "f7448c20a56fdbed3dddec60829635e33d9f299e18fcf614f0f38d4b5110d2ea"
 
   url "https://github.com/ryuldashev/agx/releases/download/v#{version}/agx-#{version}.dmg"
   name "agx"
